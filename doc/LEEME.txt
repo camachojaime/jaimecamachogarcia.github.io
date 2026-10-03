@@ -1,0 +1,4 @@
+Coloca aquí el CV público como CV-JaimeCamachoGarcia.pdf.
+Después cambia cvAvailable a true en assets/js/config.js.
+Publica una versión sin DNI, firma, dirección exacta ni códigos de verificación.
+La web actual ofrece solicitar el CV cuando el archivo no está preparado.
