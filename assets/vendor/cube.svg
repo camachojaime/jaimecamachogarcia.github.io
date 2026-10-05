@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg">
+  <symbol id="cube" viewBox="0 0 24 24">
+    <g fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round">
+      <path d="m12 2 8 4.6v10.8L12 22l-8-4.6V6.6L12 2Z"/>
+      <path d="m4.3 6.8 7.7 4.5 7.7-4.5M12 11.3V22"/>
+    </g>
+  </symbol>
+</svg>
